@@ -4,8 +4,10 @@
 [<img align='left' alt=' PolTexido | Whatsapp' width='32px' src='https://cdn.icon-icons.com/icons2/41/PNG/128/whatsappmessage_conversation_whatsap_7149.png' />][whatsapp]
 [<img align='left' alt=' PolTexido | Line' width='32px' src='https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482196-line_78675.png'/>][line]
 
-<br/>
-<br/>
+
+
+
+<br/><hr>
 
 DEV Technologies:
 <br/>
