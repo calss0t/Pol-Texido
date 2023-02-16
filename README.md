@@ -1,17 +1,22 @@
-## Hello! My name is Pol:wave:
+## Hello! I'm Pol:wave:
+
 [<img align='left' alt=' PolTexido | LinkedIn' width='32px' src='https://cdn.icon-icons.com/icons2/31/PNG/256/sociallinkedin_member_2751.png' />][linkedin]
 [<img align='left' alt=' PolTexido | Gmail' width='32px' src='https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png' />][Gmail]
 [<img align='left' alt=' PolTexido | Whatsapp' width='32px' src='https://cdn.icon-icons.com/icons2/41/PNG/128/whatsappmessage_conversation_whatsap_7149.png' />][whatsapp]
 [<img align='left' alt=' PolTexido | Line' width='32px' src='https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482196-line_78675.png'/>][line]
 
+<br>
+<br>
+I'm a full-stack developer that enjoys learning new things and meeting new people. I also love watching sports (every sport, even snooker and darts) and I love talking and discussing it with people. I also enjoy contributing to other people projects and working on my own ideas.
+<br>
+<br>
 
+I'm currently looking for job, so if you would like to contact me please use any of the links below the title of this readme file. ⬆️ 
 
+<hr>
+<!-- ![](https://komarev.com/ghpvc/?username=Calss0t&label=PROFILE+VIEWS&color=blueviolet) -->
 
-<br/><hr>
-
-DEV Technologies:
-<br/>
-<br/>
+<h3> DEV Technologies: <h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20210506173343" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
@@ -29,11 +34,8 @@ DEV Technologies:
 <br/>
 <br/>
 
-
-Other utilities:
-<br/>
-<br/>
-
+ 
+<h3> Other utilities: <h3>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
 <a href="https://github.com/"><img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a>
 <a href="https://www.postman.com/"><img align="left" alt="Postman" width="26px" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png" style="padding-right:10px;" /></a>
