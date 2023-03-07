@@ -24,6 +24,7 @@ I'm currently looking for job, so if you would like to contact me please use any
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python3" width="30px" src="https://img.icons8.com/color/512/python.png" /></a>
+<a href="https://www.djangoproject.com/"><img align="left" alt="Django" width="30px" src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="Node" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" /></a>
 <a href="https://reactnative.dev/"><img align="left" alt="React-Native" width="30px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" style="padding-right:10px;" /></a>
 <a href="https://www.postgresql.org/"><img align="left" alt="PostgreSQL" width="30px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:10px;" /></a>
