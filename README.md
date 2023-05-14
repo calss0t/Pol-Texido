@@ -2,8 +2,8 @@
 
 [<img align='left' alt=' PolTexido | LinkedIn' width='32px' src='https://cdn.icon-icons.com/icons2/31/PNG/256/sociallinkedin_member_2751.png' />][linkedin]
 [<img align='left' alt=' PolTexido | Gmail' width='32px' src='https://cdn.icon-icons.com/icons2/1381/PNG/512/gmail_93551.png' />][Gmail]
-[<img align='left' alt=' PolTexido | Whatsapp' width='32px' src='https://cdn.icon-icons.com/icons2/41/PNG/128/whatsappmessage_conversation_whatsap_7149.png' />][whatsapp]
-[<img align='left' alt=' PolTexido | Line' width='32px' src='https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482196-line_78675.png'/>][line]
+<!-- [<img align='left' alt=' PolTexido | Whatsapp' width='32px' src='https://cdn.icon-icons.com/icons2/41/PNG/128/whatsappmessage_conversation_whatsap_7149.png' />][whatsapp]
+[<img align='left' alt=' PolTexido | Line' width='32px' src='https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482196-line_78675.png'/>][line] -->
 
 <br>
 <br>
@@ -55,5 +55,5 @@ I'm currently looking for job, so if you would like to contact me please use any
 
 [linkedin]: https://www.linkedin.com/in/pol-texido/
 [Gmail]: mailto:pol.texido.b@gmail.com
-[whatsapp]: https://wa.me/34638577199
-[line]: https://line.me/R/ti/p/poltexido
+[whatsapp]: https://wa.me/<Tel Number>
+[line]: https://line.me/R/ti/p/<Username>
