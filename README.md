@@ -55,5 +55,5 @@ I'm currently looking for job, so if you would like to contact me please use any
 
 [linkedin]: https://www.linkedin.com/in/pol-texido/
 [Gmail]: mailto:pol.texido.b@gmail.com
-[whatsapp]: https://wa.me/<Tel Number>
-[line]: https://line.me/R/ti/p/<Username>
+<!-- [whatsapp]: https://wa.me/<Tel Number>
+[line]: https://line.me/R/ti/p/<Username> -->
